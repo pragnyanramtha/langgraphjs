@@ -1,5 +1,11 @@
 # @langchain/langgraph
 
+## 1.3.1-rc.1
+
+### Patch Changes
+
+- [#2339](https://github.com/langchain-ai/langgraphjs/pull/2339) [`2b88da4`](https://github.com/langchain-ai/langgraphjs/commit/2b88da497b2c6f8fbf8f4d901578a198824eb32f) Thanks [@vigneshpatel14](https://github.com/vigneshpatel14)! - fix(langgraph): surface structuredResponse parse failures in createReactAgent
+
 ## 1.3.1-rc.0
 
 ### Patch Changes
